@@ -56,7 +56,7 @@ The tool works by:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ps-image-decoder.git
+git clone https://github.com/yourusername/ps-image-decoder.git](https://github.com/Tamimsharif83/PS-Image-Decoder.git
 ```
 
 2. Install the required dependency:
